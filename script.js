@@ -1,8 +1,7 @@
 const CLIENT_ID = "dd4674b86bc64cb1ae13ee1ea21a6cc7";
 const REDIRECT_URI = "https://Zaphod141.github.io/spotify-dashboard/";  // Deine GitHub Pages URL
 const AUTH_ENDPOINT = "https://accounts.spotify.com/authorize?client_id=dd4674b86bc64cb1ae13ee1ea21a6cc7&redirect_uri=https://Zaphod141.github.io/spotify-dashboard/
-&response_type=token&scope=user-read-currently-playing
-";
+&response_type=token&scope=user-read-currently-playing";
 const RESPONSE_TYPE = "token";
 const SCOPE = "user-read-currently-playing";
 
