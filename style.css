@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+  color: lime;
+  font-family: monospace;
+  text-align: center;
+  margin-top: 60px;
+  font-size: 2em;
+}
+button {
+  font-size: 1em;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+img {
+  margin-top: 20px;
+  width: 300px;
+  border-radius: 20px;
+}
